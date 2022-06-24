@@ -1,7 +1,7 @@
 # DevTools homework video   
 [![youtube-1](https://user-images.githubusercontent.com/99182280/175567986-9e8a3ed6-a75b-49bf-b804-669621e5210b.png)](https://youtu.be/F9lFVc2bkrU)
 
-- Поиск инспектором необходимиго элемента верстки и выравнивание в панели Elements
+- Изменение элемента верстки в панели Elements
 - Тестирование верстки (Responsive, Adaptive) с помощью мобильного деввайса (Device Mode)
 - Создание девайса и тестирование Throttling с помощью Device Mode
 - Тестирование ориентации экрана с помощью Device Mode
