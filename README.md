@@ -9,7 +9,7 @@
 - Просмотр файлов страницы в панеле Sources 
 - Просмотр информации о запросах (General, Response Headers, Request Headers, User-Agent, Preview) во вкладке Network
 - Просмотр Storage во вкладке Application.
-- Загрузка анализа страницы во вкладке Application.
+- Загрузка анализа страницы во вкладке Lighthouse.
 - Скриншот видимой части страницы сайта и всего сайта
 - Изменение локации GPS во вкладке Sensors. Добавление кастомных параметров GPS во вкладке Locations
 - Изминение и сохранение User-Agent
